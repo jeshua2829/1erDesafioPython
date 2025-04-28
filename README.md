@@ -21,6 +21,8 @@ Se tiene el notebook Alura Latam Store y el este archiv propiamente llamda READM
 
 
 #Instrucciones para Ejecutar el Notebook
-  1. Clona el repositorio en tu computadora:
+  1. Crea una carpeta en tu pc y clona el repositorio en tu computadora:
       git clone https://github.com/jeshua2829/1erDesafioPython.git
-  2. 
+  2. Luego el archivo AluraStoreLatam.ipynb lo cargamos en un drive
+  3. Abrimos el archivo en un entorno colab
+  4. Luego empezamos a ejecutar desde la primera linea de codigo con Shift + Enter
